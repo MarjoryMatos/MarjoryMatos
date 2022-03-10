@@ -10,8 +10,8 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="MarjoryMatos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MarjoryMatos-Java" height="30" width="40" src="https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png">
-  <img align="center" alt="MarjoryMatos-SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> 
+  <img align="center" alt="MarjoryMatos-Java" height="30" width="40" src="https://www.pinclipart.com/picdir/middle/395-3951245_png-file-svg-java-programming-language-logo-clipart.png">
+  <img align="center" alt="MarjoryMatos-SQL" height="30" width="40" src="https://img2.gratispng.com/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg"> 
   <img align="center" alt="MarjoryMatos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MarjoryMatos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
