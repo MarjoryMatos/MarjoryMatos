@@ -1,9 +1,6 @@
 ### Olá!!! Eu sou a Marjory Matos  👋
 
-💡 Sou formada em Psicologia, com MBA em Gestão de Recursos Humanos e com um desejo crescente de realizar meus objetivos, por isso decidi realizar a transição de carreia para a àrea de tecnologia! <br/>
-💻 Estudante do curso de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul com formação prevista para Jun/2023. <br/>
-🎓 Participante do bootcamp Pessoa Desenvolvedora Java FullStack Junior da Generation Brasil. <br/>
-📚 Atualmente sou desenvolvedora fullstack jr. na IBM.
+
 
 ##
 
